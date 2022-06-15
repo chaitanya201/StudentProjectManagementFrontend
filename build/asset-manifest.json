@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StudentProjectManagementFrontend/static/css/main.e6c13ad2.css",
+    "main.js": "/StudentProjectManagementFrontend/static/js/main.3fdb3b5d.js",
+    "static/js/787.d3ed6364.chunk.js": "/StudentProjectManagementFrontend/static/js/787.d3ed6364.chunk.js",
+    "index.html": "/StudentProjectManagementFrontend/index.html",
+    "main.e6c13ad2.css.map": "/StudentProjectManagementFrontend/static/css/main.e6c13ad2.css.map",
+    "main.3fdb3b5d.js.map": "/StudentProjectManagementFrontend/static/js/main.3fdb3b5d.js.map",
+    "787.d3ed6364.chunk.js.map": "/StudentProjectManagementFrontend/static/js/787.d3ed6364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3fdb3b5d.js"
+  ]
+}
